@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="1.0">
+  <variables>
+    <symbol name="stEnable" value="1" storage="ubyte" type="bool"/>
+    <symbol name="stBrakeSwitch" value="60" storage="ubyte" type="paramList"/>
+    <symbol name="stThrottleSrc" value="1" storage="ubyte" type="paramList"/>
+    <symbol name="stMinRPM" value="2000" storage="word" type="value"/>
+    <symbol name="stTPSLevel" value="30" storage="ubyte" type="value"/>
+    <symbol name="stBrakeTimeout" value="600" storage="word" type="value"/>
+  </variables>
+</project>

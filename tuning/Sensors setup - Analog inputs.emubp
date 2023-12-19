@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="1.0">
+  <variables>
+    <symbol name="an1Pullup" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="an2Pullup" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="an3Pullup" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="an4Pullup" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="an5Pullup" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="an6Pullup" value="2" storage="ubyte" type="paramList"/>
+    <symbol name="cltPullup" value="1" storage="ubyte" type="bool"/>
+    <symbol name="iatPullup" value="1" storage="ubyte" type="bool"/>
+  </variables>
+</project>

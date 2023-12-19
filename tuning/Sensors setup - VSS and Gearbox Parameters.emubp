@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="1.0">
+  <variables>
+    <symbol name="gearDetectionType" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="vssSource" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="VSSSensorType" value="1" storage="ubyte" type="paramList"/>
+    <symbol name="vssFLSensorCANInput" value="1" storage="ubyte" type="paramList"/>
+    <symbol name="vssFRSensorCANInput" value="2" storage="ubyte" type="paramList"/>
+    <symbol name="vssRLSensorCANInput" value="3" storage="ubyte" type="paramList"/>
+    <symbol name="vssRRSensorCANInput" value="4" storage="ubyte" type="paramList"/>
+    <symbol name="VSSPullup" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="VSSFilter" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="VSSTrigerEdge" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="vssFreqDivider" value="4" storage="ubyte" type="paramList"/>
+    <symbol name="speedRatio" value="755" storage="word" type="value"/>
+    <symbol name="gearRatio1" value="2445" storage="word" type="value"/>
+    <symbol name="gearRatio2" value="4096" storage="word" type="value"/>
+    <symbol name="gearRatio3" value="5952" storage="word" type="value"/>
+    <symbol name="gearRatio4" value="8832" storage="word" type="value"/>
+    <symbol name="gearRatio5" value="10880" storage="word" type="value"/>
+    <symbol name="gearRatio6" value="25472" storage="word" type="value"/>
+    <symbol name="gearRatioTolerance" value="10" storage="ubyte" type="value"/>
+    <symbol name="gearDelay" value="10" storage="ubyte" type="value"/>
+    <symbol name="gearSensorInput" value="0" storage="ubyte" type="paramList"/>
+  </variables>
+</project>

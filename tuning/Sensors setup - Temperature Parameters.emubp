@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="1.0">
+  <variables>
+    <symbol name="useEGT1asCLT" value="0" storage="ubyte" type="bool"/>
+    <symbol name="acEvapTemp" value="13" storage="ubyte" type="paramList"/>
+    <symbol name="diffOilTempInput" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="fuelTempInput" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="gearBoxTempInput" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="preICTempInput" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="psFluidTempInput" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="oilTempInput" value="0" storage="ubyte" type="paramList"/>
+  </variables>
+</project>

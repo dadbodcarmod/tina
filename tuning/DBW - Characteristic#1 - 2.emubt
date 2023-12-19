@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="1.0">
+  <tables>
+    <symbol name="etcOpening" storage="ubyte" width="16" height="8" data="1 7 E 15 1B 22 28 2F 35 3C 42 49 4F 56 5D 63 1 7 E 15 1B 22 28 2F 35 3C 42 49 4F 56 5D 63 1 7 E 15 1B 22 28 2F 35 3C 42 49 4F 56 5D 63 1 7 E 15 1B 22 28 2F 35 3C 42 49 4F 56 5D 63 1 7 E 15 1B 22 28 2F 35 3C 42 49 4F 56 5D 63 1 7 E 15 1B 22 28 2F 35 3C 42 49 4F 56 5D 63 1 7 E 15 1B 22 28 2F 35 3C 42 49 4F 56 5D 63 1 7 E 15 1B 22 28 2F 35 3C 42 49 4F 56 5D 63 "/>
+  </tables>
+</project>

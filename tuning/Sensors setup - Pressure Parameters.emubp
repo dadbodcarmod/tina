@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="1.0">
+  <variables>
+    <symbol name="acPressure" value="11" storage="ubyte" type="paramList"/>
+    <symbol name="backpressureInput" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="coolantPressureInput" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="crankCasePressureInput" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="diffPressureInput" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="fuelPressureInput" value="5" storage="ubyte" type="paramList"/>
+    <symbol name="fuelPressureFilter" value="0" storage="ubyte" type="value"/>
+    <symbol name="oilPressureInput" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="oilPressureFilter" value="0" storage="ubyte" type="value"/>
+    <symbol name="oilPressureSwitch" value="0" storage="ubyte" type="bool"/>
+  </variables>
+</project>

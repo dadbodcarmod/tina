@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<desktops version="1.0">
+  <windows>
+    <window name="Ignition outputs" pname="Ignition" numDesktopEntries="1">
+      <desktop id="2" posX="752" posY="0" w="376" h="388"/>
+    </window>
+    <window name="Primary trigger" pname="Ignition" numDesktopEntries="2">
+      <desktop id="2" posX="0" posY="0" w="376" h="383"/>
+      <desktop id="0" posX="512" posY="448" w="376" h="483"/>
+    </window>
+    <window name="Secondary trigger" pname="Ignition" numDesktopEntries="3">
+      <desktop id="2" posX="376" posY="0" w="376" h="383"/>
+      <desktop id="0" posX="1352" posY="608" w="376" h="323"/>
+      <desktop id="8" posX="1352" posY="208" w="376" h="323"/>
+    </window>
+    <window name="RTLOG" pname="Basic" numDesktopEntries="3">
+      <desktop id="0" posX="0" posY="0" w="296" h="347"/>
+      <desktop id="5" posX="848" posY="200" w="296" h="335"/>
+      <desktop id="9" posX="752" posY="1" w="296" h="335"/>
+    </window>
+    <window name="RTLOG" pname="Other" numDesktopEntries="1">
+      <desktop id="0" posX="296" posY="0" w="296" h="347"/>
+    </window>
+    <window name="RTLOG" pname="Boost" numDesktopEntries="1">
+      <desktop id="0" posX="1" posY="347" w="296" h="221"/>
+    </window>
+    <window name="RTLOG" pname="Ignition" numDesktopEntries="1">
+      <desktop id="0" posX="592" posY="0" w="296" h="347"/>
+    </window>
+    <window name="Tune Display" pname="0" numDesktopEntries="5">
+      <desktop id="0" posX="298" posY="347" w="400" h="250"/>
+      <desktop id="3" posX="4" posY="415" w="466" h="292"/>
+      <desktop id="4" posX="0" posY="412" w="466" h="292"/>
+      <desktop id="7" posX="1029" posY="642" w="400" h="250"/>
+      <desktop id="8" posX="0" posY="0" w="1725" h="914"/>
+    </window>
+    <window name="RTLOG" pname="Idle" numDesktopEntries="2">
+      <desktop id="0" posX="880" posY="0" w="296" h="202"/>
+      <desktop id="5" posX="848" posY="0" w="296" h="202"/>
+    </window>
+    <window name="Parameters" pname="Engine start" numDesktopEntries="2">
+      <desktop id="1" posX="0" posY="0" w="376" h="210"/>
+      <desktop id="4" posX="968" posY="0" w="376" h="243"/>
+    </window>
+    <window name="Cranking fuel #1" pname="Engine start" numDesktopEntries="2">
+      <desktop id="1" posX="375" posY="0" w="461" h="210" ed1="136"/>
+      <desktop id="8" posX="1128" posY="600" w="600" h="330" ed1="292"/>
+    </window>
+    <window name="Prime pulse" pname="Engine start" numDesktopEntries="1">
+      <desktop id="1" posX="0" posY="210" w="472" h="259" ed0="156"/>
+    </window>
+    <window name="Fuel TPS scale" pname="Engine start" numDesktopEntries="1">
+      <desktop id="1" posX="472" posY="210" w="472" h="259" ed0="156"/>
+    </window>
+    <window name="Coil dwell time" pname="Ignition" numDesktopEntries="1">
+      <desktop id="2" posX="0" posY="383" w="377" h="259" ed0="156"/>
+    </window>
+    <window name="Ign. table #1" pname="Ignition" numDesktopEntries="1">
+      <desktop id="3" posX="0" posY="0" w="490" h="412" ed1="237"/>
+    </window>
+    <window name="VE table #1" pname="Fueling" numDesktopEntries="2">
+      <desktop id="4" posX="0" posY="0" w="964" h="412" ed0="2" ed1="482"/>
+      <desktop id="7" posX="256" posY="0" w="1184" h="499" ed0="2" ed1="584"/>
+    </window>
+    <window name="Parameters" pname="Idle" numDesktopEntries="2">
+      <desktop id="5" posX="0" posY="0" w="376" h="583"/>
+      <desktop id="7" posX="1352" posY="152" w="376" h="783"/>
+    </window>
+    <window name="Idle Target RPM" pname="Idle" numDesktopEntries="3">
+      <desktop id="5" posX="376" posY="0" w="472" h="259" ed0="156"/>
+      <desktop id="7" posX="274" posY="660" w="527" h="263" ed0="156"/>
+      <desktop id="4" posX="24" posY="672" w="527" h="263" ed0="156"/>
+    </window>
+    <window name="Idle ref table" pname="Idle" numDesktopEntries="2">
+      <desktop id="5" posX="376" posY="259" w="472" h="259" ed0="2" ed1="228"/>
+      <desktop id="4" posX="749" posY="257" w="672" h="272" ed0="2" ed1="328"/>
+    </window>
+    <window name="LOGGRAPH" pname="1" numDesktopEntries="6">
+      <desktop id="11" posX="3" posY="8" w="1081" h="779" ed1="2" ed2="39" ed3="179" ed4="8" ed5="30" ed6="3" ed7="28"/>
+      <desktop id="3" posX="494" posY="0" w="748" h="688" ed0="1"/>
+      <desktop id="4" posX="585" posY="513" w="600" h="406" ed1="2" ed2="39" ed3="179" ed4="8" ed5="30" ed6="3" ed7="28"/>
+      <desktop id="7" posX="0" posY="0" w="792" h="815" ed0="2" ed1="2" ed2="39" ed3="179" ed4="8" ed5="30" ed6="3" ed7="28"/>
+      <desktop id="8" posX="0" posY="908" w="792" h="815" ed1="2" ed2="39" ed3="179" ed4="8" ed5="30" ed6="3" ed7="28"/>
+      <desktop id="5" posX="2" posY="392" w="792" h="815"/>
+    </window>
+    <window name="Parameters" pname="Boost" numDesktopEntries="2">
+      <desktop id="6" posX="0" posY="412" w="376" h="328"/>
+      <desktop id="7" posX="976" posY="552" w="376" h="383"/>
+    </window>
+    <window name="DC ref #1" pname="Boost" numDesktopEntries="1">
+      <desktop id="6" posX="0" posY="0" w="490" h="412" ed1="237"/>
+    </window>
+    <window name="Boost target #1" pname="Boost" numDesktopEntries="2">
+      <desktop id="6" posX="493" posY="0" w="490" h="412" ed1="237"/>
+      <desktop id="7" posX="1168" posY="352" w="408" h="289" ed1="196"/>
+    </window>
+    <window name="Fuel pump" pname="Outputs" numDesktopEntries="2">
+      <desktop id="9" posX="0" posY="0" w="376" h="152"/>
+      <desktop id="7" posX="568" posY="768" w="376" h="163"/>
+    </window>
+    <window name="Coolant fan" pname="Outputs" numDesktopEntries="1">
+      <desktop id="9" posX="376" posY="0" w="376" h="284"/>
+    </window>
+    <window name="Tacho output" pname="Outputs" numDesktopEntries="1">
+      <desktop id="9" posX="0" posY="152" w="376" h="131"/>
+    </window>
+    <window name="Main relay" pname="Outputs" numDesktopEntries="1">
+      <desktop id="9" posX="0" posY="283" w="376" h="143"/>
+    </window>
+    <window name="Sec. trig. sens." pname="Ignition" numDesktopEntries="2">
+      <desktop id="2" posX="376" posY="383" w="372" h="259" ed0="156"/>
+      <desktop id="8" posX="784" posY="344" w="415" h="263" ed0="156"/>
+    </window>
+    <window name="Speedometer output" pname="Outputs" numDesktopEntries="1">
+      <desktop id="9" posX="376" posY="283" w="376" h="143"/>
+    </window>
+    <window name="Parameters" pname="DBW" numDesktopEntries="2">
+      <desktop id="0" posX="1176" posY="0" w="376" h="623"/>
+      <desktop id="7" posX="792" posY="0" w="376" h="623"/>
+    </window>
+    <window name="RTLOG" pname="Analog inputs" numDesktopEntries="2">
+      <desktop id="0" posX="888" posY="200" w="288" h="419"/>
+      <desktop id="7" posX="1440" posY="0" w="288" h="419"/>
+    </window>
+    <window name="RTLOG" pname="DBW" numDesktopEntries="1">
+      <desktop id="0" posX="0" posY="592" w="360" h="257"/>
+    </window>
+    <window name="GAUGE" pname="AFR" numDesktopEntries="2">
+      <desktop id="7" posX="818" posY="640" w="198" h="214"/>
+      <desktop id="8" posX="1432" posY="0" w="198" h="214"/>
+    </window>
+    <window name="RTLOG" pname="Knock Sensing" numDesktopEntries="2">
+      <desktop id="7" posX="178" posY="685" w="387" h="221"/>
+      <desktop id="8" posX="792" posY="0" w="636" h="221"/>
+    </window>
+    <window name="RTLOG" pname="VVT" numDesktopEntries="1">
+      <desktop id="8" posX="1192" posY="216" w="342" h="239"/>
+    </window>
+    <window name="CAM#1 parameters" pname="VVT" numDesktopEntries="1">
+      <desktop id="8" posX="1192" posY="448" w="376" h="483"/>
+    </window>
+    <window name="CAM1 angle #1" pname="VVT" numDesktopEntries="1">
+      <desktop id="8" posX="264" posY="600" w="928" h="331" ed0="2" ed1="456"/>
+    </window>
+    <window name="Delayed turn off" pname="Other" numDesktopEntries="1">
+      <desktop id="8" posX="0" posY="768" w="376" h="163"/>
+    </window>
+    <window name="Gears scale #1" pname="Boost" numDesktopEntries="1">
+      <desktop id="7" posX="600" posY="496" w="376" h="223"/>
+    </window>
+    <window name="AC clutch" pname="Outputs" numDesktopEntries="1">
+      <desktop id="0" posX="888" posY="552" w="376" h="383"/>
+    </window>
+    <window name="AC pressure cal." pname="Sensors setup" numDesktopEntries="1">
+      <desktop id="0" posX="1536" posY="0" w="198" h="263" ed0="156"/>
+    </window>
+    <window name="Pressure Parameters" pname="Sensors setup" numDesktopEntries="1">
+      <desktop id="0" posX="136" posY="632" w="376" h="303"/>
+    </window>
+    <window name="RTLOG" pname="Switches" numDesktopEntries="1">
+      <desktop id="0" posX="1384" posY="256" w="351" h="617"/>
+    </window>
+  </windows>
+  <tabs>
+    <tab index="0" name="logs"/>
+    <tab index="1" name="cranking"/>
+    <tab index="2" name="triggers"/>
+    <tab index="3" name="ignition"/>
+    <tab index="4" name="fuel"/>
+    <tab index="5" name="idle"/>
+    <tab index="6" name="boost"/>
+    <tab index="7" name="Extra 1"/>
+    <tab index="8" name="Extra 2"/>
+    <tab index="9" name="outputs"/>
+    <tab index="10" name="test"/>
+    <tab index="11" name="LOG"/>
+    <tab index="12" name="Extra 6"/>
+    <tab index="13" name="Extra 7"/>
+    <tab index="14" name="Extra 8"/>
+    <tab index="15" name="Extra 9"/>
+    <tab index="16" name="Extra 10"/>
+    <tab index="17" name="Extra 11"/>
+    <tab index="18" name="Extra 12"/>
+  </tabs>
+  <logTabs>
+    <tab index="0" name="Graph 1"/>
+    <tab index="1" name="Graph 2"/>
+    <tab index="2" name="Graph 3"/>
+    <tab index="3" name="Graph 4"/>
+    <tab index="4" name="Graph 5"/>
+    <tab index="5" name="Graph 6"/>
+    <tab index="6" name="Graph 7"/>
+    <tab index="7" name="Graph 8"/>
+    <tab index="8" name="Graph 9"/>
+    <tab index="9" name="Graph 10"/>
+    <tab index="10" name="Graph 11"/>
+    <tab index="11" name="Graph 12"/>
+  </logTabs>
+  <logGraphWindows>
+    <logGraphWindow ed0="2" ed1="1" ed2="8" ed3="22" ed4="31" ed5="158" ed6="4" ed7="89" ed8="-1" ed9="-1" ed10="-1" ed11="-1" ed12="-1" ed13="-1" ed14="-1" ed15="-1"/>
+    <logGraphWindow ed0="1" ed1="2" ed2="8" ed3="13" ed4="-1" ed5="-1" ed6="-1" ed7="-1" ed8="-1" ed9="-1" ed10="-1" ed11="-1" ed12="-1" ed13="-1" ed14="-1" ed15="-1"/>
+    <logGraphWindow ed0="95" ed1="96" ed2="113" ed3="3" ed4="58" ed5="61" ed6="-1" ed7="-1" ed8="-1" ed9="-1" ed10="-1" ed11="-1" ed12="-1" ed13="-1" ed14="-1" ed15="-1"/>
+    <logGraphWindow ed0="1" ed1="2" ed2="64" ed3="230" ed4="82" ed5="86" ed6="236" ed7="72" ed8="-1" ed9="-1" ed10="-1" ed11="-1" ed12="-1" ed13="-1" ed14="-1" ed15="-1"/>
+    <logGraphWindow ed0="1" ed1="2" ed2="-1" ed3="-1" ed4="-1" ed5="-1" ed6="-1" ed7="-1" ed8="-1" ed9="-1" ed10="-1" ed11="-1" ed12="-1" ed13="-1" ed14="-1" ed15="-1"/>
+    <logGraphWindow ed0="1" ed1="2" ed2="-1" ed3="-1" ed4="-1" ed5="-1" ed6="-1" ed7="-1" ed8="-1" ed9="-1" ed10="-1" ed11="-1" ed12="-1" ed13="-1" ed14="-1" ed15="-1"/>
+    <logGraphWindow ed0="1" ed1="2" ed2="-1" ed3="-1" ed4="-1" ed5="-1" ed6="-1" ed7="-1" ed8="-1" ed9="-1" ed10="-1" ed11="-1" ed12="-1" ed13="-1" ed14="-1" ed15="-1"/>
+    <logGraphWindow ed0="1" ed1="2" ed2="-1" ed3="-1" ed4="-1" ed5="-1" ed6="-1" ed7="-1" ed8="-1" ed9="-1" ed10="-1" ed11="-1" ed12="-1" ed13="-1" ed14="-1" ed15="-1"/>
+    <logGraphWindow ed0="1" ed1="2" ed2="-1" ed3="-1" ed4="-1" ed5="-1" ed6="-1" ed7="-1" ed8="-1" ed9="-1" ed10="-1" ed11="-1" ed12="-1" ed13="-1" ed14="-1" ed15="-1"/>
+    <logGraphWindow ed0="1" ed1="2" ed2="-1" ed3="-1" ed4="-1" ed5="-1" ed6="-1" ed7="-1" ed8="-1" ed9="-1" ed10="-1" ed11="-1" ed12="-1" ed13="-1" ed14="-1" ed15="-1"/>
+    <logGraphWindow ed0="1" ed1="2" ed2="-1" ed3="-1" ed4="-1" ed5="-1" ed6="-1" ed7="-1" ed8="-1" ed9="-1" ed10="-1" ed11="-1" ed12="-1" ed13="-1" ed14="-1" ed15="-1"/>
+    <logGraphWindow ed0="1" ed1="2" ed2="-1" ed3="-1" ed4="-1" ed5="-1" ed6="-1" ed7="-1" ed8="-1" ed9="-1" ed10="-1" ed11="-1" ed12="-1" ed13="-1" ed14="-1" ed15="-1"/>
+  </logGraphWindows>
+  <customLogGroupWindows>
+    <customLogGroupWindow>
+      <item id="1"/>
+      <item id="2"/>
+      <item id="3"/>
+    </customLogGroupWindow>
+    <customLogGroupWindow>
+      <item id="1"/>
+      <item id="2"/>
+    </customLogGroupWindow>
+    <customLogGroupWindow>
+      <item id="1"/>
+      <item id="2"/>
+    </customLogGroupWindow>
+  </customLogGroupWindows>
+</desktops>

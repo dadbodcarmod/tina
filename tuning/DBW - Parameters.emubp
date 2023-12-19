@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="1.0">
+  <variables>
+    <symbol name="etcEnable" value="1" storage="ubyte" type="bool"/>
+    <symbol name="etcEMUComaptibility" value="0" storage="ubyte" type="bool"/>
+    <symbol name="etcFreqency" value="1000" storage="word" type="value"/>
+    <symbol name="dbwInvertMotor" value="0" storage="ubyte" type="bool"/>
+    <symbol name="etcPosSeneorAin" value="7" storage="ubyte" type="paramList"/>
+    <symbol name="etcPosSeneorInvAin" value="4" storage="ubyte" type="paramList"/>
+    <symbol name="etcMaxPotError" value="77" storage="ubyte" type="value"/>
+    <symbol name="dbwThrottlePosCheckType" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="etcPositiveIntegralLimit" value="24" storage="word" type="value"/>
+    <symbol name="etcNegativeIntegralLimit" value="24" storage="word" type="value"/>
+    <symbol name="etcPositionMin" value="33" storage="ubyte" type="value"/>
+    <symbol name="etcPositionMax" value="217" storage="ubyte" type="value"/>
+    <symbol name="etcIdleRange" value="14" storage="ubyte" type="value"/>
+    <symbol name="dbwUseTPasTPS" value="0" storage="ubyte" type="bool"/>
+    <symbol name="dbwDCRefTableType" value="1" storage="ubyte" type="paramList"/>
+    <symbol name="dbwFrictionAccrue" value="1" storage="ubyte" type="bool"/>
+    <symbol name="etcSecondPPS" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="dbwPlausibleTPSCheck" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="enableDBWCANControl" value="0" storage="ubyte" type="bool"/>
+    <symbol name="dbwCANControlID" value="929" storage="word" type="value"/>
+    <symbol name="dbwCharSwitchInput" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="dbwBlendCharacteristics" value="0" storage="ubyte" type="bool"/>
+    <symbol name="dbwDisableIfNoRPM" value="1" storage="ubyte" type="bool"/>
+    <symbol name="etcBMWITB" value="0" storage="ubyte" type="bool"/>
+    <symbol name="etcBMWITBOutput" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="etcUseMAPForCharacteristic" value="0" storage="ubyte" type="bool"/>
+  </variables>
+</project>

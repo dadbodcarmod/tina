@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="1.0">
+  <variables>
+    <symbol name="fuelLevel" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="brakePedalInput" value="60" storage="ubyte" type="paramList"/>
+    <symbol name="clutchPedalInput" value="0" storage="ubyte" type="paramList"/>
+    <symbol name="steeringWheelSensorOffset" value="0" storage="sword" type="value"/>
+  </variables>
+</project>
